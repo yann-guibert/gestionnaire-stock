@@ -1,21 +1,33 @@
-# Gestionnaire de Stock — Fruits & Légumes
+# Gestionnaire de Stock 🥦 — Fruits & Légumes
 
-"Projet" Python de gestion de stock pour un commerce de fruits et légumes.
+Outil Python en ligne de commande pour gérer le stock d'un commerce de fruits et légumes.
+Alertes automatiques, sauvegarde CSV, gestion complète des produits.
 
-## Fonctionnalités
+---
+
+## 🚀 Fonctionnalités
+
 - Afficher le stock complet avec valeur totale
 - Alerte automatique si stock bas
 - Ajouter, modifier, supprimer un produit
 - Sauvegarde en CSV
 
-## Technologies utilisées
-- Python 3
-- Pandas
+---
 
-## Lancer le projet
+## 🛠️ Technologies
+
+- Python 3 · Pandas
+
+---
+
+## ⚙️ Lancer le projet
+
 ```bash
 python gestionnaire_stock.py
 ```
 
 ---
-Projet réalisé dans le cadre de mon apprentissage Python — débuté le 21 février 2026.
+
+## 👤 Auteur
+
+**Yann Guibert** — Data Analyst Freelance
